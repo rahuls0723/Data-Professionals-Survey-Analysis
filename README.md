@@ -24,7 +24,7 @@ The goal was to gain insights into **job roles, salaries, technologies, job sati
 
 ## 📸 Visualizations  
 Here are some snapshots of the Power BI dashboards:  
-👉 <img width="568" alt="Dashboard" src="https://github.com/user-attachments/assets/f03762cb-2ecc-4e51-95f5-1c18b27d5197" />
+👉 
 ![Dashboard Preview](Dashboard.png)
 
 
